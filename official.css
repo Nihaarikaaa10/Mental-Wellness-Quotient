@@ -1,0 +1,33 @@
+.navbar-nav{
+    margin-left: auto;
+}
+.card{
+    
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 40px;
+    margin: 20px;
+    margin-left:20px;
+    text-align: center;
+    letter-spacing: 1px;
+    box-shadow: 0 3px 5px rgba(0,0,0,.3);
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+}
+.box{
+    width: 500px;
+    padding: 32px 0 16px 0 ;
+    margin: 50px auto;
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+  }
+#btn{
+    width: 25%;
+}
+#myDIV{
+    display: none;
+}

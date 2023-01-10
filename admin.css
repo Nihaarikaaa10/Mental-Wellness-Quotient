@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+
+}
+.navbar-nav{
+    margin-left: auto;
+}
+
+#btn:hover{
+    font-style: black;
+    color: black;
+    background-color: beige;
+}
+#pro{
+    image-resolution: 30% 30%;
+}
+.card{
+    
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 40px;
+    margin: 20px;
+    margin-left:20px;
+    text-align: center;
+    letter-spacing: 1px;
+    box-shadow: 0 3px 5px rgba(0,0,0,.3);
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+}

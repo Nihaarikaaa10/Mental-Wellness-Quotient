@@ -1,0 +1,20 @@
+{
+  "name": "mwq",
+  "version": "1.0.0",
+  "description": "this website helps calculate the mental wellness quotient of students teachers and parents and displays their mwq",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "node",
+    "first",
+    "website"
+  ],
+  "author": "Nihaarika",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+
+}
+#myDIV{
+    display: none;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+
+#btn:hover{
+    font-style: black;
+    color: black;
+    background-color: #fff;
+}
+.card{
+    
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    padding-top: 20px;
+    margin: 40px;
+    margin-left: 10px;
+    text-align: left;
+    box-shadow: 0 3px 5px rgba(0,0,0,.3);
+
+   
+}
+
